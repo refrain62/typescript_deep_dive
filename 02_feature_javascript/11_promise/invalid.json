@@ -1,0 +1,13 @@
+{
+    "valid": "invalid",
+    "items": [
+        {
+            "id": "1",
+            "text": aaa
+        },
+        {
+            "id": 2,
+            "text": bbb
+        },
+    ]
+}

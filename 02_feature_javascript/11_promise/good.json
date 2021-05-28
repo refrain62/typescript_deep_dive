@@ -1,0 +1,17 @@
+{
+    "valid": "good",
+    "items": [
+        {
+            "id": 1,
+            "text": "val1" 
+        },
+        {
+            "id": 2,
+            "text": "val2" 
+        },
+        {
+            "id": 3,
+            "text": "val3" 
+        }
+    ]
+}
